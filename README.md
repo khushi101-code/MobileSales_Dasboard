@@ -8,10 +8,6 @@ The main objective of this project was to analyze mobile phone sales data and ex
 * Understanding customer ratings and satisfaction levels.
 * Evaluating regional performance to target high-potential markets.
 
-**Dataset Used:**
-The dataset includes mobile phone sales records with details like brand, model, price, sales quantity, transactions, region, month, and customer ratings.
-- <a href = "https://github.com/khushi101-code/MobileSales_Dashboard/blob/main/Day - 30 - Mobile Sales Data.xlsx"">Dataset</a>
-
 ### **Key Performance Indicators (KPIs)**
 
 **Total Quantity Sold:**
@@ -54,7 +50,7 @@ Tracks customer satisfaction with sales and service.
 Reveals which days generate the most sales.
 🔹 **Highest sales on Monday, lowest on Sunday**
 
-**Dashboard Interaction:** <a href="YOUR_DASHBOARD_LINK_HERE">View Dashboard</a>
+**Dashboard Interaction:** <a href="https://github.com/khushi101-code/MobileSales_Dasboard/blob/main/MobileSales_Dashboard.png">View Dashboard</a>
 
 ---
 
@@ -82,9 +78,6 @@ I followed a structured end-to-end approach using **Power BI** to build this das
 * Combined all visuals into a cohesive, interactive dashboard.
 * Applied professional themes and clear labels for usability.
 
----
-
-If you’d like, I can also help you write a catchy **GitHub repository tagline** or improve the links & placeholders above (like the dashboard link) — just say the word!
 
 
 

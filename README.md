@@ -78,7 +78,7 @@ I followed a structured end-to-end approach using **Power BI** to build this das
 * Combined all visuals into a cohesive, interactive dashboard.
 * Applied professional themes and clear labels for usability.
 
-  ![MobileSales_Dashboard]("https://github.com/user-attachments/assets/44f08c9f-bed4-4ace-8f26-60a62a1499e6")
+  ![MobileSales_Dashboard]("https://github.com/user-attachments/assets/e97b5d3d-a9ba-4c83-a205-43e4eafbc79d")
   
 
 
